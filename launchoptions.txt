@@ -1,0 +1,1 @@
+-exec autoexec -novid -console -high -d3d9ex -threads 7 -refresh 60 +fps max 0 -worldwide
