@@ -1,0 +1,4 @@
+Windows: 10/20
+Ingame: 1.0
+Scope: 0.75
+DPI: 1000
